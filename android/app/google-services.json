@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151427635184",
+    "firebase_url": "https://work1-37efb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "work1-37efb",
+    "storage_bucket": "work1-37efb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151427635184:android:6f189e1056f8ccf4182f35",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_teerapat_saca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0R2GOEoNwvIpqixMshK7KLbiGAKhnrN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
